@@ -12,6 +12,9 @@ __pycache__/
 # Ignoring the data
 /data/
 
+# Ignore executable files
+*.exe
+
 # Distribution / packaging
 .Python
 build/
